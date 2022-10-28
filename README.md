@@ -10,4 +10,4 @@
  __solved [at](https://codeforces.com/submissions/Soumen1111/) link__
  
  
- __begineer Data Science/Machine Learning projects and [resources](https://github.com/soumenksarker/EDA-to-Practical-ML)
+ Begineer Data Science/Machine Learning projects and [resources](https://github.com/soumenksarker/EDA-to-Practical-ML) to follow along
