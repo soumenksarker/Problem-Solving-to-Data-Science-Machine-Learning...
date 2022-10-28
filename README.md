@@ -8,3 +8,6 @@
  __For Solved C/C++ problems [this](https://drive.google.com/drive/folders/1gnWPhqYLBuOnZX7MrT2VsXqV25mPytLS?usp=sharing/) link__
  
  __solved [at](https://codeforces.com/submissions/Soumen1111/) link__
+ 
+ 
+ __begineer Data Science/Machine Learning projects and [resources](https://github.com/soumenksarker/EDA-to-Practical-ML)
