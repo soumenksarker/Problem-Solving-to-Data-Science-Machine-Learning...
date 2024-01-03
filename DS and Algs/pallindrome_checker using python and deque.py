@@ -13,5 +13,5 @@ def pal_checker(a_string):
             still_ok = False
     return still_ok
 print(pal_checker('madam'))
-print(pal_checker('fuck'))
+print(pal_checker('nothing'))
 print(pal_checker('radar'))
