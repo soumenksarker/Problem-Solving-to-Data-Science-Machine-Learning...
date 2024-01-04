@@ -1,7 +1,5 @@
 
 # Problem Solving, Machine Learning 
-
-## __Introduction:__  
    I have solved problems incorporating algorithms and data structures. Python problems above solved along a book namely 
    __Problem Solving with Algorithm and Data Structures [this](https://drive.google.com/file/d/1Oxm--Y_7nwCy88ZXjhRk-tTc1Gse-Ixa/view?usp=sharing) link__
     
